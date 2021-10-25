@@ -19,11 +19,15 @@ export default {
 
 <style>
 .input {
-  width: 400px;
+  width: 800px;
+    border: 1px solid brown;
+    height: 40px;
+    font-size: 2.4rem;
 }
 .add_btn {
   margin-top: 10px;
-  width: 400px;
-  height: 20px;
+  width: 25.6rem;
+  height: 4rem;
 }
+
 </style>
